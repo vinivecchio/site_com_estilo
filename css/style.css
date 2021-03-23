@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&family=Roboto&display=swap');
+body {
+    background-color: beige;
+    font-family: 'Roboto', sans-serif;
+}
+.titulos {
+    font-family: 'Chango', cursive;
+}
+.caixas {
+    margin: 30px;
+
+    float: left;
+}
